@@ -1,7 +1,7 @@
 {
   "name": "api-project-future",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project Future API",
   "main": "index.js",
   "type": "module",
   "engines": {
